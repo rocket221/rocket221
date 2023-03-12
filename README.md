@@ -1,1 +1,1 @@
-![Custom badge](https://img.shields.io/badge/.Net-6.0-blue) ![Custom badge](https://img.shields.io/badge/.Net-6.0-blue)
+![Custom badge](https://img.shields.io/badge/-.Net%206.0-blue) ![Custom badge](https://img.shields.io/badge/-Sql%20Server-blue) ![Custom badge](https://img.shields.io/badge/-EF%20Core-blue) ![Custom badge](https://img.shields.io/badge/-AutoMapper-blue)
